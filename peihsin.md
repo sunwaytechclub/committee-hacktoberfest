@@ -14,6 +14,10 @@
  ## Why did you join STC?
  
  - because tech is love tech is life
+ - to meet more people
+ - train myself outside my comfort zone
+ - learn new tech stuff
+ - make uni more fun
  
  ## Profile Link
  
