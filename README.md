@@ -16,3 +16,16 @@ Ask around :D
 ## What happens if I have already finished?
 
 Do 5 more and get a free Hacktoberfest T-shirt 👕
+
+
+
+## Some GitHub essentials explained..
+
+### repositories
+- directory or storage space for your project that contains folders and files, images, videos, spreadsheets, and data sets
+### branches 
+- clone of the master branch that you can experiment and make changes on before committing to master
+### commits 
+- saved changes
+### Pull Requests 
+- to propose the changes you've made and ask someone to review and pull in your contribution and merge them into their master branch
