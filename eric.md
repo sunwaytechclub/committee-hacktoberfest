@@ -9,6 +9,7 @@ BSc Computer Science (201701 intake)
 - Chasing the sun
 - Playing the trombone
 - Eating half-eaten tacos
+- Eating sugar
 
 ## Why did you join STC?
 
