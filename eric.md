@@ -12,7 +12,7 @@ BSc Computer Science (201701 intake)
 
 ## Why did you join STC?
 
-- yeet
+- yeetn't
 
 ## Profile Link
 
