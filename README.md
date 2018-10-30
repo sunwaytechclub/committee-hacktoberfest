@@ -27,5 +27,7 @@ Do 5 more and get a free Hacktoberfest T-shirt 👕
 - clone of the master branch that you can experiment and make changes on before committing to master
 ### commits 
 - saved changes
-### Pull Requests 
+### pull requests 
 - to propose the changes you've made and ask someone to review and pull in your contribution and merge them into their master branch
+### collaborator
+- collaborator is a person with read and write access to a repository who has been invited to contribute by the repository owner.
