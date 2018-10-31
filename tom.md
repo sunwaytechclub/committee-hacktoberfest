@@ -4,10 +4,12 @@
 
 NETWORK SECURITY YEA (Direct entry 2018/01)
 
-## Interests
+- Bachelors in Network Security DE
 
+## Interests
 - TANKS
 - Sleep
+- Definitely not life pholosophy
 
 ## Why did you join STC?
 - Very good question
