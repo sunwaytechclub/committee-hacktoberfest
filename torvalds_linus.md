@@ -1,4 +1,4 @@
-# Torvalds Linus
+# Torvalds Lynus
 
 ## Academics
 
@@ -6,8 +6,7 @@ BSc Computer Network and Security (201801 intake)
 
 
 ## Interests
-- Weight Lifting
-- Building Linus OS
+- OS Security
 - Investing
 - Networking with people
 
